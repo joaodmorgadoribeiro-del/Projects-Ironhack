@@ -2,55 +2,56 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/joaodmorgadoribeiro-del/Projetos-Ironhack)
 ![GitHub repo size](https://img.shields.io/github/repo-size/joaodmorgadoribeiro-del/Projetos-Ironhack)
-![Status](https://img.shields.io/badge/status-em%20progresso-yellow)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
-Repositório com todos os projetos desenvolvidos ao longo do Bootcamp de **Cloud & DevOps** do [Ironhack](https://www.ironhack.com/pt).  
-Cada semana corresponde a um módulo com o seu próprio projeto prático.
+Hey! 👋 This is where I keep everything I build during the **Cloud & DevOps** Bootcamp at [Ironhack](https://www.ironhack.com/en). Each week has its own project, and the plan is to keep this updated as the course goes on — or at least try! 😅
 
 ---
 
-## 🗂️ Estrutura do Repositório
+## 🗂️ What's in here
 
-| Semana | Tema | Projeto |
-|--------|------|---------|
+| Week | Topic | Project |
+|------|-------|---------|
 | [Week1](./Week1) | Linux & Bash | LAB — Find & Replace in Files |
 | [Week2](./Week2) | AWS Networking | LAB — Configuring Route 53 Failover Routing |
-| [Week3](./Week3) | Servidores & Automação | LAB — End-to-End Server Creation & Automation (RCNP) |
+| [Week3](./Week3) | Servers & Automation | LAB — End-to-End Server Creation & Automation (RCNP) |
 | [Week4](./Week4) | Docker & Containers | Running a Web App using a Docker Image |
 
-> ⚠️ A tabela será atualizada à medida que o curso avança.
+> 🚧 This is always growing — check back in a few weeks!
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tools I'm learning
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![And More](https://img.shields.io/badge/...and%20more-333333?style=flat)
 
 ---
 
-## 🚀 Como usar este repositório
+## 💻 Want to have a look?
 
 ```bash
-# Clona o repositório
+# Clone the repository
 git clone https://github.com/joaodmorgadoribeiro-del/Projetos-Ironhack.git
 
-# Entra na pasta da semana que quiseres explorar
+# Jump into whichever week interests you
 cd Projetos-Ironhack/Week1
 ```
 
-Cada pasta contém os ficheiros e instruções do respetivo projeto.
+---
+
+## 👤 About me
+
+I'm João, currently doing the Cloud & DevOps bootcamp at Ironhack — and this repo is proof I survived each week. 🙃  
+Feel free to connect or just say hi:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaodmribeiro/)
 
 ---
 
-## 👤 Autor
-
-Feito por **João Morgado Ribeiro** — Bootcamp Ironhack Cloud & DevOps  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL)
-
----
-
-*Este repositório é atualizado semanalmente ao longo do bootcamp.*
-
+*Updated weekly — or whenever I remember to commit on time.* 😄
