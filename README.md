@@ -12,10 +12,10 @@ Hey! 👋 This is where I keep everything I build during the **Cloud & DevOps** 
 
 | Week | Topic | Project |
 |------|-------|---------|
-| [Week1](./Week1) | Linux & Bash | LAB — Find & Replace in Files |
-| [Week2](./Week2) | AWS Networking | LAB — Configuring Route 53 Failover Routing |
-| [Week3](./Week3) | Servers & Automation | LAB — End-to-End Server Creation & Automation (RCNP) |
-| [Week4](./Week4) | Docker & Containers | Running a Web App using a Docker Image |
+| [Week1](./Week1) | Linux & Bash | All Labs from week 1 |
+| [Week2](./Week2) | AWS Networking | All Labs from week 2 |
+| [Week3](./Week3) | Servers & Automation | All Labs from week 3 |
+| [Week4](./Week4) | Docker & Containers | All Labs from week 4 |
 
 > 🚧 This is always growing — check back in a few weeks!
 
